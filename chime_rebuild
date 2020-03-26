@@ -4,6 +4,9 @@ sudo modprobe speakup_dectlk
 sudo mv /etc/modules /etc/modules.orig
 sudo echo "speakup_dectlk" > /etc/modules
 
+sudo apt install git
+
+
 
 
 
